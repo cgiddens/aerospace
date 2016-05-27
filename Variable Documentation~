@@ -1,0 +1,22 @@
+Constants
+
+	g = 9.81 m/s
+	sidereal_day = 8.616401960000000e+04 s
+
+	Planetary
+
+		Earth
+	
+			Gravitational Parameter: u_earth = 3.986004415000000e+14 m^3/s^2
+			Semi-Major Axis: a_earth = 6.378136300000000e+06 m
+			Orbital Angular Velocity: w_earth = 7.292115000000000e-05 rad/s
+			
+
+	Orbital
+
+		Earth
+
+			Geosynchronous Equatorial Orbit
+
+				Period: tp_geo = 8.616401960000000e+04 s
+				Semi-Major Axis: a_geo = 

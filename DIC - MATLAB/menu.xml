@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rsccat locale="en_US" product="MATLAB" version="1.0">
+   <message>
+      <entry key="MENU">MENU</entry>
+      <entry key="NoMenuItemsToChooseFrom">MENU: No menu items to choose from.</entry>
+      <entry key="SelectionOutOfRangeTryAgain">Selection out of range. Try again.</entry>
+   </message>
+</rsccat>
